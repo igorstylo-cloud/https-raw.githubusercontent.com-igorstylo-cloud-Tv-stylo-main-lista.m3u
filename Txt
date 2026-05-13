@@ -1,0 +1,98 @@
+#EXTM3U
+
+############################
+# TV ABERTA BRASIL
+############################
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",TV Itape
+https://5a57bda70564a.streamlock.net/tvitape/tvitape/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",iSTV
+https://5a57bda70564a.streamlock.net/istv/istv/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",Canção Nova
+https://5cf4a2c2512a2.streamlock.net:443/cancaonova/ngrp:cancaonova_all/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",TV Aparecida
+https://livecdn-aparecida.brasilstream.com.br/live/aparecida/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",TV Câmara
+https://stream3.camara.leg.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",TV Senado
+https://cdn-2.nxplay.com.br/TV_Senado_Nacional/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",TV Justiça
+https://streaming-tvjustica.stf.jus.br/live/tvjustica/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",Band News TV
+https://evpp.mm.uol.com.br/band/bandnewstv/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",AgroBrasil TV
+https://5f1c9f7d2c46f.streamlock.net:443/agrobrasiltv/smil:agrobrasiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",RBTV
+https://video01.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",Rede Gospel
+https://srv4.zcast.com.br/redetvtv/redetvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="TV Aberta",TV Pai Eterno
+https://pluto.tv/
+
+############################
+# FILMES - PLUTO TV
+############################
+
+#EXTINF:-1 group-title="Filmes",Pluto TV Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8
+
+#EXTINF:-1 group-title="Filmes",Pluto TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8
+
+#EXTINF:-1 group-title="Filmes",Pluto TV Cine Comédia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6001f7f7c9a28e0007d84e5c/master.m3u8
+
+#EXTINF:-1 group-title="Filmes",Pluto TV Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8
+
+#EXTINF:-1 group-title="Filmes",Pluto TV Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d36f0b1c3c90007d5c257/master.m3u8
+
+############################
+# TCL CHANNEL - FILMES
+############################
+
+#EXTINF:-1 group-title="Filmes",TCL Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 group-title="Filmes",TCL Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 group-title="Filmes",TCL Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2554
+
+############################
+# LG CHANNELS
+############################
+
+#EXTINF:-1 group-title="Filmes",LG Filmes
+https://linear-lgaaslgc1.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Séries",LG Séries
+https://linear-lgaaslgc2.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Notícias",LG Notícias
+https://linear-lgaaslgc3.akamaized.net/playlist.m3u8
